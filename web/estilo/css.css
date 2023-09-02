@@ -1,0 +1,57 @@
+
+html,h2,h3,h4,li,ul,img,input{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width:960px;
+    margin: 20px auto;
+    background-color: rgb(163, 238, 238);
+    text-align: center;
+}
+
+h2{
+    margin: 20px auto;
+    font-size: 55px;
+    background-color: aliceblue;
+    padding: 40px;  
+}
+
+h3{
+    background-color: rgb(158, 203, 242);
+    margin-top: 20px;
+    font-size: 30px;  
+}
+
+h4{
+    margin-bottom: 20px;
+    background-color: rgb(158, 203, 242);
+    font-size: 30px;
+}
+
+.desc{
+    margin-bottom: 20px;
+    background-color: aliceblue;
+    font-size: 22px;
+    padding: 15px;   
+}
+
+p{
+    font-size: 22px;    
+}
+
+.boton{
+    padding: 5px;
+    font-size:20px;
+    background-color: rgb(255, 153, 153)
+}
+
+.t{
+    padding: 3px;
+    width: 80px;
+    height: 15px;
+    text-align: center;
+}
+
+
